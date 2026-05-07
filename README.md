@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🖼️ ClipCanvas — On-device AI Background Remover
 
 > Free, private, browser-based background removal. Your images never leave your device.
@@ -136,6 +135,3 @@ MIT — feel free to use, modify, and ship.
 <p align="center">
   Built with ❤️ — runs entirely in your browser.
 </p>
-=======
-# Image-Background-Remover
->>>>>>> dd8e86e3162f0a7bb7885e3b17a1d57d346491b5
